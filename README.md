@@ -1,2 +1,2 @@
 # PDF-Lucene-Search-Engine
-Search specific word or sentence in PDF file using Lucene search.
+Search specific word or sentence in multiple PDF files using Lucene search.
